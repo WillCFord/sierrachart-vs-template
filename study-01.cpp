@@ -14,7 +14,7 @@ SCSFExport scsf_Study01(SCStudyInterfaceRef sc)
         sc.GraphRegion = 0;
 
         dummy01.Name = "Dummy Parameter";
-        dummy01.SetInt(4711);
+        dummy01.SetInt(471);
 
         return;
     }

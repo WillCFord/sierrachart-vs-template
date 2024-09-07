@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\Github\\sierrachart-vs-template\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6DF37E-F348-4A21-BEC6-829C27FED6E1}|SCCustomStudyTemplate.vcxproj|X:\\Github\\sierrachart-vs-template\\study-01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E6DF37E-F348-4A21-BEC6-829C27FED6E1}|SCCustomStudyTemplate.vcxproj|solutionrelative:study-01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "study-01.cpp",
+              "DocumentMoniker": "X:\\Github\\sierrachart-vs-template\\study-01.cpp",
+              "RelativeDocumentMoniker": "study-01.cpp",
+              "ToolTip": "X:\\Github\\sierrachart-vs-template\\study-01.cpp",
+              "RelativeToolTip": "study-01.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-07T20:08:26.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
